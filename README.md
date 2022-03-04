@@ -22,7 +22,7 @@ Removing the math and reading scores from Thomas High School's 9th grade class h
 ![District Summary Comparison](Resources/district_summary_comparison.png)
 
 #### Thomas High School summary (Before removal -> After Removal):
-* Average math schore: 83.418349 -> 83.350937
+* Average math score: 83.418349 -> 83.350937
 * Percentage passing math: 93.272171% -> 93.185690%
 * Average reading score: 83.848930 -> 83.896082 (Increase)
 * Percentage passing reading: 97.308869% -> 97.018739%
